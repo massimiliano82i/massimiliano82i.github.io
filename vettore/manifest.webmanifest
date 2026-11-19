@@ -1,0 +1,16 @@
+{
+  "name": "Vettore CAD",
+  "short_name": "Vettore",
+  "description": "CAD 2D in italiano, nel browser.",
+  "start_url": "/vettore/",
+  "scope": "/vettore/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070910",
+  "theme_color": "#070910",
+  "lang": "it",
+  "icons": [
+    { "src": "/vettore/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/vettore/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
