@@ -1,4 +1,4 @@
-const CACHE = "vettore-cad-v2";
+const CACHE = "vettore-cad-v3";
 const BASE = "/vettore";
 
 self.addEventListener("install", (event) => {
